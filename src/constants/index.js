@@ -281,16 +281,4 @@ export const reviews = [
     body: "",
     img: "/assets/badges/Scecurity awarness.png",
   },
-  {
-    name: "",
-    username: "",
-    body: "",
-    img: "/assets/badges/www.png",
-  },
-  {
-    name: "",
-    username: "",
-    body: "",
-    img: "/assets/badges/90day.png",
-  },
 ];
