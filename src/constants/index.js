@@ -267,18 +267,14 @@ export const reviews = [
     name: "",
     username: "",
     body: "",
-    img: "/assets/badges/Cyber Ready.png",
+    img: "/assets/badges/ai.jpg",
   },
   {
     name: "",
     username: "",
     body: "",
-    img: "/assets/badges/Intro Scecuruty Engineer.png",
+    img: "/assets/badges/gle.jpg",
   },
-  {
-    name: "",
-    username: "",
-    body: "",
-    img: "/assets/badges/Scecurity awarness.png",
-  },
+
+  
 ];
