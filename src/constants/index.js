@@ -8,8 +8,8 @@ export const myProjects = [
       "Web Application",
     subDescription: [
       "Role: Full-Stack Developer",
-      "Background: Developed a hospital database management system to manage patient records, appointments, staff details, and medical data using structured database design for optimized hospital operations.",
-      "Tech Stack: Angular, HTML, CSS, Tailwind CSS, JS, Fast API, MongoDB, Git, Postman",
+      "Background: Developed a comprehensive hospital management system to efficiently manage patient records, appointments and medical data. Implemented a structured database design to ensure optimized hospital operations and accurate data management. Integrated an AI-powered chatbot to assist patients by answering health-related questions, guiding appointment bookings, and providing personalized medical instructions.",
+      "Tech Stack: Angular, HTML, CSS, Tailwind CSS, JS, Fast API, MongoDB, Python , OpenAI API",
       
     ],
     href: "",
@@ -40,7 +40,7 @@ export const myProjects = [
     subDescription: [
       "Role: Full-Stack Developer",
       "Background: Created a modern specialty café platform concept focusing onfreshly roasted, ethically sourced coffee, sustainability, and enhanced customerexperience.",
-      "Tech Stack: Angular, HTML, CSS, JavaScript, TypeScript, Node.js, MongoDB",
+      "Tech Stack: Angular, HTML, CSS, JavaScript, TypeScript, Node.js, MongoDB,Postman",
     
     ],
     href: "",
@@ -182,6 +182,36 @@ export const myProjects = [
         id:3,
         name:"Python",
         path:"/assets/logos/db.jpg",
+      },
+    ],
+  },
+  {
+    id: 7,
+    title: "AI Resume Analyzer",
+    description: "Web Project",
+    subDescription: [
+      "Role: Web Developer",
+      "Background: Developed an AI-powered resume analyzer web application that evaluates resumes, provides skill matching, and generates suggestions using OpenAI’s API. Implemented a full-stack solution with Angular for the frontend, Node.js for the backend, and MongoDB for storing user data, ensuring seamless user experience and real-time analysis.",
+      "Tech Stack: Angular, Node.js, Express.js, MongoDB, OpenAI API, HTML, CSS, JavaScript, RESTful APIs",
+    ],
+    href: "",
+    logo: "",
+    image: "/assets/projects/AI/resume.png",
+    tags: [
+      {
+        id: 1,
+        name: "Angular",
+        path: "/assets/logos/angular.png",
+      },
+      {
+        id: 2,
+        name: "Node.js", 
+        path: "/assets/logos/node.png",
+      },
+      {
+        id:3,
+        name:"OpenAI",
+        path:"/assets/logos/openai.png",
       },
     ],
   },

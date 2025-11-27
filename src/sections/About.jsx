@@ -112,7 +112,7 @@ const About = () => {
         <div className="grid-special-color grid-4">
           <div className="flex flex-col items-center justify-center gap-4 size-full">
             <p className="text-center headtext">
-            Do you want my CV?  
+            Download My Resume  
             </p>
             <CopyEmailButton />
           </div>
@@ -120,10 +120,10 @@ const About = () => {
         {/* Grid 5 */}
         <div className="grid-default-color grid-5">
           <div className="z-10 w-[50%] space-y-4">
-            <p className="headText">Teck Stack</p>
+            <p className="headText">Tech Stack</p>
             <p className="subtext">
 
-              I work with a variety of programming languages, frameworks, and tools to build scalable full-stack applications, automate DevOps pipelines, and deliver reliable cloud-native solutions, all while ensuring strong security and high performance.
+              I work with a variety of programming languages, frameworks, and tools to build scalable full-stack applications, automate DevOps pipelines, and deliver reliable cloud-native solutions.
             </p>
           </div>
           <div className="absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">
